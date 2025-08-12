@@ -23,10 +23,7 @@ The Power BI report provides a **visual summary** of mortality patterns in heart
 * **Mortality by Risk Factors** – Includes high blood pressure, diabetes, anaemia, and smoking.
 * **Correlations** – Displays how clinical features (creatinine, ejection fraction, serum sodium, etc.) relate to death events.
 
-**Example Dashboard:**
-![Power BI Dashboard](Screenshot%202025-08-12%20182322.png)
 
----
 
 ## 🤖 Machine Learning Model
 
